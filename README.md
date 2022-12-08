@@ -37,3 +37,5 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=almahfuz97&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
 </p>
 
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=almahfuz97&theme=blue-green)
+
