@@ -4,7 +4,7 @@
 
 <br />
 
-[<p align="center">[<img height="75" src="https://github.com/almahfuz97/almahfuz97/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/almahfuz/)[<img height="75" src="https://github.com/almahfuz97/almahfuz97/blob/main/images/icons/Facebook.png">](https://www.facebook.com/almahfuz97)</p>]
+<p align="center">[<img height="75" src="https://github.com/almahfuz97/almahfuz97/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/almahfuz/)[<img height="75" src="https://github.com/almahfuz97/almahfuz97/blob/main/images/icons/Facebook.png">](https://www.facebook.com/almahfuz97)</p>
 
 <br />
 
